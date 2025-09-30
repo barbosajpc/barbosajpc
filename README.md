@@ -110,8 +110,6 @@ Experiência em **análise de dados, machine learning, automação de pipelines,
 
 <div align="center">
 
-### ⭐ *"Transformando dados em decisões estratégicas"* ⭐
-
 ![](https://komarev.com/ghpvc/?username=barbosajpc&color=blue&style=flat-square)
 
 </div>
