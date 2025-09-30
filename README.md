@@ -42,10 +42,8 @@ Sou apaixonado por tecnologia, dados e inteligência artificial. Tenho experiên
 
 ---
 
-## 📬 Vamos Conectar?
+## 📬 Minhas redes e contato:
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-barbosa-697678254/)
 - 📊 [Kaggle](https://www.kaggle.com/barbosajpc)
 - 💻 [GitHub](https://github.com/barbosajpc)
 - 📧 jpedrobarbosa.jpb@gmail.com
-
-⭐ Se curtir meu perfil, não esqueça de deixar uma estrela em algum repositório!  
