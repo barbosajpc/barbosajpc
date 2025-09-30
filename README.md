@@ -99,7 +99,7 @@ Experiência em **análise de dados, machine learning, automação de pipelines,
 
 ---
 
-## 📬 Vamos Conectar?
+## 📬 Minhas redes e Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-barbosa-697678254/)  
 📊 [Kaggle](https://www.kaggle.com/barbosajpc)  
