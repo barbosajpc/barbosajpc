@@ -2,7 +2,7 @@
 
 🎯 **Cientista de Dados | Machine Learning Engineer | MLOps | Cloud Computing**
 
-Sou apaixonado por transformar dados em insights estratégicos e soluções inteligentes. Experiência em **análise de dados, machine learning, automação de pipelines, MLOps e desenvolvimento de dashboards interativos**, sempre focado em entregar valor através da ciência de dados.
+Experiência em **análise de dados, machine learning, automação de pipelines, MLOps e desenvolvimento de dashboards interativos**, sempre focado em entregar valor através da ciência de dados.
 
 ---
 
@@ -18,7 +18,6 @@ Sou apaixonado por transformar dados em insights estratégicos e soluções inte
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ### 📊 Business Intelligence & Visualização
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -73,14 +72,12 @@ Sou apaixonado por transformar dados em insights estratégicos e soluções inte
 
 ### ☁️ Cloud Computing & Deploy
 • **AWS**: EC2, S3, Lambda, SageMaker  
-• **Databricks**: Data Lakehouse e Spark  
-• **APIs**: FastAPI e microsserviços  
-• **CI/CD**: Automação e deploy contínuo
+• **Databricks**: Data Lakehouse, Spark e Deploy
 
 ### 🌍 Análise Geoespacial
 • **Geoprocessamento**: QGIS e Geopandas  
 • **Mapas Interativos**: Leaflet.js e Folium  
-• **Location Intelligence**: Análise espacial de dados
+
 
 </td>
 </tr>
