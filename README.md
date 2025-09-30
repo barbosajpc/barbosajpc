@@ -2,7 +2,7 @@
 
 🎯 **Cientista de Dados | Machine Learning Engineer | MLOps | Cloud Computing**
 
-Sou apaixonado por transformar dados em insights estratégicos e soluções inteligentes. Experiência em **análise de dados, machine learning, automação de pipelines, MLOps e desenvolvimento de dashboards interativos**, sempre focado em entregar valor através da ciência de dados.
+Experiência em **análise de dados, machine learning, automação de pipelines, MLOps e desenvolvimento de dashboards interativos**, sempre focado em entregar valor através da ciência de dados.
 
 ---
 
@@ -11,14 +11,12 @@ Sou apaixonado por transformar dados em insights estratégicos e soluções inte
 ### 💻 Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 Machine Learning & Deep Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ### 📊 Business Intelligence & Visualização
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -32,7 +30,6 @@ Sou apaixonado por transformar dados em insights estratégicos e soluções inte
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,38 +41,49 @@ Sou apaixonado por transformar dados em insights estratégicos e soluções inte
 
 ---
 
-## 📚 Áreas de Interesse & Atuação
+📚 Áreas de Interesse & Atuação
+<table>
+<tr>
+<td width="50%" valign="top">
+🤖 Machine Learning & IA
 
-🤖 **Machine Learning & Inteligência Artificial**
-- Modelagem Preditiva e Classificação
-- Deep Learning e Redes Neurais
-- Ensemble Methods (XGBoost, LightGBM, Random Forest)
-- Feature Engineering
+Modelagem Preditiva: Classificação, Regressão e Clustering
+Deep Learning: Redes Neurais, CNN e Transfer Learning
+Ensemble Methods: XGBoost, LightGBM, Random Forest
+Feature Engineering: Criação e seleção de features
 
-⚙️ **MLOps & Engenharia de Dados**
-- Deploy de Modelos em Produção
-- Automação de Pipelines com Airflow
-- Versionamento com MLflow
-- ETL e Transformação de Dados
-- Containerização com Docker
+⚙️ MLOps & Engenharia de Dados
 
-📊 **Business Intelligence & Analytics**
-- Dashboards Interativos
-- Visualização de Dados
-- KPIs e Métricas de Negócio
-- Storytelling com Dados
+Orquestração: Apache Airflow e Databricks
+Versionamento: MLflow para tracking de modelos
+Deploy: Containerização com Docker
+ETL: Pipelines automatizados e Data Quality
 
-☁️ **Cloud Computing & Deploy**
-- AWS (Cloud Architecture)
-- Databricks (Data Lakehouse)
-- Infraestrutura como Código
-- Soluções Escaláveis
+</td>
+<td width="50%" valign="top">
+📊 Business Intelligence
 
-🌍 **Análise Geoespacial**
-- Mapas Interativos (Leaflet.js)
-- Geoprocessamento (QGIS, Geopandas)
-- Location Intelligence
+Dashboards: Power BI, Tableau e Streamlit
+Visualização: Plotly, Matplotlib e Seaborn
+Métricas: KPIs, ROI e análise de performance
+Storytelling: Insights orientados a negócio
 
+☁️ Cloud Computing & Deploy
+
+AWS: EC2, S3, Lambda, SageMaker
+Databricks: Data Lakehouse e Spark
+APIs: FastAPI e microsserviços
+CI/CD: Automação e deploy contínuo
+
+🌍 Análise Geoespacial
+
+Geoprocessamento: QGIS e Geopandas
+Mapas Interativos: Leaflet.js e Folium
+Location Intelligence: Análise espacial de dados
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📈 Estatísticas do GitHub
